@@ -7,7 +7,7 @@ Some undergrad work on implimenting some periodograms and MCMC transit analysis 
 We recommend **Python 3.7** or higher, **[PyTorch 1.6.0](https://pytorch.org/get-s** The code does **not** work with Python 2.
 
 Using conda would be advised. To rebuild, make a clean environment and run 
-````
+````python
 pip install -r requirements-dev.txt
 ````
 
