@@ -1,6 +1,6 @@
 # Astrophysics transit analysis 
 
-Some undergrad work on implimenting some periodograms and MCMC transit analysis of Kepler-7b exoplanets. Makes for a useful example of bayesian time series forcasting, or just general cosmology. 
+Some old work on implimenting some periodograms and MCMC transit analysis of Kepler-7b exoplanets. Makes for a useful example of bayesian time series forcasting, or just general cosmology. Thought I'd upload for anyone with an interest.
 
 ## Development 
 
